@@ -18,7 +18,7 @@ headers = {
          
 }
 
-bot = telebot.TeleBot("1783004985:AAH3mnwvlA_Wf5xAOWn5M3Lr7MFgrHSPf4M")
+bot = telebot.TeleBot("1612253036:AAES77R7jcJn_3uCrkvJDaERYqlM0gEcDrs")
 
 
 
