@@ -18,13 +18,13 @@ headers = {
          
 }
 
-bot = telebot.TeleBot("token")
+bot = telebot.TeleBot("1783004985:AAH3mnwvlA_Wf5xAOWn5M3Lr7MFgrHSPf4M")
 
 
 
 @bot.message_handler(commands=['start'])
 def welcome_help(message):
-    bot.send_message(message.chat.id, ' مطور بوت @AliS219')
+    bot.send_message(message.chat.id, ' مطور بوت @saj_h01')
         
     
 
